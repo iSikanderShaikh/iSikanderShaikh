@@ -1,6 +1,21 @@
-# Hi there, I'm Sikander! 👋
+# Hey 👋, I'm [Sikander!](http://www.imsikander.com)
 
 ## I'm a Software Developer!
+
+<a href="https://twitter.com/iSikanderShaikh">
+  <img align="left" alt="Sikander Shaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/iSikanderShaikh/">
+  <img align="left" alt="Sikander Shaikh | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/iSikanderShaikh/">
+  <img align="left" alt="Sikander Shaikh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
+
+## About Me:
 
 - 🔭 I’m currently working on ERP System Softwares!
 - 🌱 I’m currently learning everything 🤣
@@ -10,12 +25,6 @@
 - ⚡ Fun fact: I love to sketch & writing epigrams.
 
 ### Connect with me:
-
-
----
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
----
-
 
 <img align="left" alt="Portfolio" width="22px" fill="#fff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="Facebook" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -27,7 +36,7 @@
 
 <br />
 
-### Languages and Tools:
+### Technology Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
