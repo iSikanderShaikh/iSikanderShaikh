@@ -9,12 +9,12 @@
 
 ### Connect with me:
 
-<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?logo=facebook&logoColor=white&style=for-the-badge" />
-<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?logo=twitter&logoColor=white&style=for-the-badge" />
-<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?logo=instagram&logoColor=white&style=for-the-badge" />
-<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?logo=youtube&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?logo=medium&logoColor=white&style=for-the-badge" />
+<img align="left" alt="facebook" src="https://img.shields.io/logo/facebook-%2312100E.svg?logo=facebook&logoColor=white&style=for-the-logo" />
+<img align="left" alt="twitter" src="https://img.shields.io/logo/twitter-%2312100E.svg?logo=twitter&logoColor=white&style=for-the-logo" />
+<img align="left" alt="linkedin" src="https://img.shields.io/logo/linkedin-%2312100E.svg?logo=linkedin&logoColor=white&style=for-the-logo" />
+<img align="left" alt="instagram" src="https://img.shields.io/logo/instagram-%2312100E.svg?logo=instagram&logoColor=white&style=for-the-logo" />
+<img align="left" alt="youtube" src="https://img.shields.io/logo/youtube-%2312100E.svg?logo=youtube&logoColor=white&style=for-the-logo" />
+<img align="left" alt="medium" src="https://img.shields.io/logo/medium-%2312100E.svg?logo=medium&logoColor=white&style=for-the-logo" />
 
 <br />
 <br />
