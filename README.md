@@ -9,8 +9,6 @@
 - 🥅 2021 Goals: Become a good software developer.
 - ⚡ Fun fact: I love to sketch & writing epigrams.
 
-<br />
-
 ### Connect with me:
 
 <img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
