@@ -1,5 +1,9 @@
 ## Hey 👋, I'm [Sikander!](http://www.imsikander.com)
 
+![](https://komarev.com/ghpvc/?username=iSikanderShaikh&label=PROFILE+VIEWS)
+
+<br />
+
 ### I'm a Software Developer!
 
 - 🌱 I’m currently exploring new things in technology.
