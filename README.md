@@ -7,6 +7,8 @@
 - 🥅 2021 Goals: Become a good software developer & contribute more to tech community.
 - ⚡ #TechnologyEnthusiast, #MovieBuff, #Epigramist, #Artist.
 
+<br />
+
 ### Connect with me:
 
 <img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
