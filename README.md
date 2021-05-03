@@ -14,7 +14,6 @@
 <img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
 <img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?logo=instagram&logoColor=white&style=for-the-badge" />
 <img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?logo=youtube&logoColor=white&style=for-the-badge" />
-<img align="left" alt="github" src="https://img.shields.io/badge/github-%2312100E.svg?logo=github&logoColor=white&style=for-the-badge" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?logo=medium&logoColor=white&style=for-the-badge" />
 
 <br />
