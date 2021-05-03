@@ -2,12 +2,10 @@
 
 ### I'm a Software Developer!
 
-- 🔭 I’m currently working on ERP System Softwares!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about: HTML, CSS, JS, Angular, PHP
-- 🥅 2021 Goals: Become a good software developer.
-- ⚡ Fun fact: I love to sketch & writing epigrams.
+- 🌱 I’m currently exploring new things in technology.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Become a good software developer & contribute more to tech community.
+- ⚡ #TechnologyEnthusiast, #MovieBuff, #Epigramist, #Artist.
 
 ### Connect with me:
 
