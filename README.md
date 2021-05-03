@@ -40,12 +40,16 @@
 ### :zap: GitHub Stats
 
 <center>
-  <table>
-    <tr>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=dark" /></td>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=dark"/></td>
-    </tr>   
-  </table>
+	<table nbor>
+		<tr>
+			<td style="border: 1px solid transparent;">
+				<img align="left" src="https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=dark" />
+			</td>
+			<td style="border: 1px solid transparent;">
+				<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=dark"/>
+			</td>
+		</tr>
+	</table>
 </center>
 
 <!-- 
