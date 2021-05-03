@@ -2,21 +2,6 @@
 
 ## I'm a Software Developer!
 
-<a href="https://twitter.com/iSikanderShaikh">
-  <img align="left" alt="Sikander Shaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/iSikanderShaikh/">
-  <img align="left" alt="Sikander Shaikh | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/iSikanderShaikh/">
-  <img align="left" alt="Sikander Shaikh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br />
-<br />
-
-## About Me:
-
 - 🔭 I’m currently working on ERP System Softwares!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -26,13 +11,23 @@
 
 ### Connect with me:
 
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="github" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+
+
+<!-- 
 <img align="left" alt="Portfolio" width="22px" fill="#fff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="Facebook" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <img align="left" alt="Twitter" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?fill=#fff" />
 <img align="left" alt="LinkedIn" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?fill=#fff" />
 <img align="left" alt="Instagram" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?fill=#fff" />
 <img align="left" alt="YouTube" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg?fill=#fff" />
-<img align="left" alt="GitHub" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?fill=#fff" />
+<img align="left" alt="GitHub" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?fill=#fff" /> -->
 
 <br />
 
