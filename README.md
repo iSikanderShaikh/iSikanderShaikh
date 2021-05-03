@@ -16,8 +16,8 @@
 <img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?logo=youtube&logoColor=white&style=for-the-badge" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?logo=medium&logoColor=white&style=for-the-badge" />
 
---
---
+<br />
+<br />
 
 ### Technology Stack:
 
@@ -34,20 +34,11 @@
 <img align="left" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
---
---
+<br />
+<br />
 
 ### :zap: GitHub Stats:
 
-<center>
-	<table nbor>
-		<tr>
-			<td>
-				<img align="center" src="https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=dark" />
-			</td>
-			<td>
-				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=dark"/>
-			</td>
-		</tr>
-	</table>
-</center>
+![Sikander's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=dark)
+
+![Sikander's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=dark)
