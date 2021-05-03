@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about: HTML, CSS, JS, Angular, PHP
-- 📫 How to reach me: @iSikanderShaikh
 - 🥅 2021 Goals: Become a good software developer.
 - ⚡ Fun fact: I love to sketch & writing epigrams.
 
