@@ -11,13 +11,13 @@
 
 ### Connect with me:
 
-<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="Portfolio" width="22px" fill="#fff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="Facebook" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="Twitter" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="LinkedIn" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Instagram" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="YouTube" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="GitHub" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 <br />
 
@@ -39,6 +39,6 @@
 
 ---
 
-[![Sikander's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=merko)](https://github.com/iSikanderShaikh/github-readme-stats)
+[![Sikander's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=dark)](https://github.com/iSikanderShaikh/github-readme-stats)
 
-[![Sikander's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=merko)](https://github.com/iSikanderShaikh/github-readme-stats)
+[![Sikander's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=dark)](https://github.com/iSikanderShaikh/github-readme-stats)
