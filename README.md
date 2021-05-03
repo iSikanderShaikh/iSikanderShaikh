@@ -1,19 +1,11 @@
 ## Hey 👋, I'm [Sikander!](http://www.imsikander.com)
 
-![](https://komarev.com/ghpvc/?username=iSikanderShaikh&color=yellow)
-
-<!-- ![](https://komarev.com/ghpvc/?username=iSikanderShaikh&label=PROFILE+VIEWS) -->
-
-<!-- <br /> -->
-
 ### I'm a Software Developer!
 
 - 🌱 I’m currently exploring new things in technology.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Become a good software developer & contribute more to tech community.
 - ⚡ Fun fact: I'm a Technology Enthusiast, Movie Buff, Epigramist & Artist.
-
-<br />
 
 ### Connect with me:
 
