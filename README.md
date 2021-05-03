@@ -37,22 +37,17 @@
 <br />
 <br />
 
-### :zap: GitHub Stats
+### :zap: GitHub Stats:
 
 <center>
 	<table nbor>
 		<tr>
-			<td style="border: 1px solid transparent;">
-				<img align="left" src="https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=dark" />
+			<td>
+				<img align="center" src="https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=dark" />
 			</td>
-			<td style="border: 1px solid transparent;">
-				<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=dark"/>
+			<td>
+				<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=dark"/>
 			</td>
 		</tr>
 	</table>
 </center>
-
-<!-- 
-[![Sikander's GitHub stats]()](https://github.com/iSikanderShaikh/github-readme-stats)
-
-[![Sikander's Language Stats]()](https://github.com/iSikanderShaikh/github-readme-stats) -->
