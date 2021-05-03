@@ -11,6 +11,12 @@
 
 ### Connect with me:
 
+
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+---
+
+
 <img align="left" alt="Portfolio" width="22px" fill="#fff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="Facebook" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <img align="left" alt="Twitter" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?fill=#fff" />
