@@ -1,6 +1,6 @@
-# Hey 👋, I'm [Sikander!](http://www.imsikander.com)
+## Hey 👋, I'm [Sikander!](http://www.imsikander.com)
 
-## I'm a Software Developer!
+### I'm a Software Developer!
 
 - 🔭 I’m currently working on ERP System Softwares!
 - 🌱 I’m currently learning everything 🤣
@@ -19,17 +19,6 @@
 <img align="left" alt="github" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 <br />
-<br />
-
-<!-- 
-<img align="left" alt="Portfolio" width="22px" fill="#fff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Facebook" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="Twitter" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?fill=#fff" />
-<img align="left" alt="LinkedIn" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?fill=#fff" />
-<img align="left" alt="Instagram" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?fill=#fff" />
-<img align="left" alt="YouTube" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg?fill=#fff" />
-<img align="left" alt="GitHub" width="22px" fill="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?fill=#fff" /> -->
-
 <br />
 
 ### Technology Stack:
