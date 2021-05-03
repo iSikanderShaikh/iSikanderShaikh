@@ -41,4 +41,4 @@
 
 [![Sikander's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSikanderShaikh&layout=compact&theme=dark)](https://github.com/iSikanderShaikh/github-readme-stats)
 
-[![Sikander's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=radical)](https://github.com/iSikanderShaikh/github-readme-stats)
+[![Sikander's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iSikanderShaikh&layout=compact&theme=gruvbox)](https://github.com/iSikanderShaikh/github-readme-stats)
