@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring new things in technology.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Become a good software developer & contribute more to tech community.
-- ⚡ #TechnologyEnthusiast, #MovieBuff, #Epigramist, #Artist.
+- ⚡ Fun fact: I'm a Technology Enthusiast, Movie Buff, Epigramist & Artist.
 
 <br />
 
@@ -18,10 +18,12 @@
 <img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 <img align="left" alt="github" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+
 <br />
 <br />
 
 ### Technology Stack:
+
 <img align="left" alt="visual-studio-code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
